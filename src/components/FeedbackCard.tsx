@@ -17,4 +17,4 @@ const FeedbackCard = (props : any) => {
   )
 }
 
-export default FeedbackCard
+export default FeedbackCard;
